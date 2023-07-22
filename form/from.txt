@@ -1,0 +1,81 @@
+
+<html>
+<head>
+    <title>FORMSLAB</title>
+</head>
+<body style="background-color: aqua;">
+<br>
+<br>
+<br>
+
+<strong><label for="First Name">Firstname:</label></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="text" name="Firstname" id="Firstname">
+<br>
+<br>
+<strong><label for="MiddleName">Middlename:</label></strong>&nbsp;&nbsp;&nbsp;
+<input type="text" name="middlename" id="middlename">
+<br>
+<br>
+
+<strong><label for="MiddleName">Lastname:</label></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="text" name="lastname" id="lastname">
+<br>
+<br>
+
+
+<strong><label for="course">Course:</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+<select id="Course">
+
+<option value="select">course</option>
+<option value="select">Math</option>
+<option value="select">English</option>
+
+</select>
+<br>
+<br>
+
+<strong><label for="Gender">Gender:</label></strong>
+<br>
+<br>
+<text><input type="radio" name="male">Male</text>
+<br>
+<br>
+<text><input type="radio" name="Female">Female</text>
+<br>
+<br>
+<text><input type="radio" name="Other">Other</text>
+<br>
+<br>
+<strong><label for="Phone">Phone:</label></strong>&nbsp;&nbsp;
+<select>
+<option value="number">+91</option>&nbsp;&nbsp;
+<input type="text">
+<br>
+<br>
+<strong><label for="Address">Address:</label></strong>
+<br>
+<br>
+<textarea name="Add" id="Add" cols="162" rows="10"></textarea>
+<br>
+<br>
+<strong><label for="Email">Email : </label></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="email" name="Email" id="Email">
+<br>
+<br>
+
+<strong><label for="Password">Password:</label></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="password" name="Password" id="Password">
+<br>
+<br>
+
+<strong><label for="Re-Password">Re-Password:</label></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="password" name="Password" id="Password">
+<br>
+<br>
+<input type="submit">
+<br>
+<br>
+
+
+</body>
+</html>
