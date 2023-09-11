@@ -1,0 +1,13 @@
+<college>
+    <student category="student">
+        <firstname>Priyanshu</firstname>
+        <lastname>Sharma</lastname>
+        <contact>+977345435</contact>
+        <email>dsfds@gmail.com</email>
+        <address>
+            <city>Itahari</city>
+            <state>Province 1</state>
+            <pin>4367</pin>
+        </address>
+    </student>
+</college>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore category="NAMUNA">
+
+
+  <book category="C">
+    <title>DSA</title>
+    <teacher>Chandra Acharya</teacher>
+    <Age>30</Age>
+    <salary>1.7k</salary>
+  </book>
+
+    <book category="java">
+    <title>Java</title>
+    <teacher>Saman</teacher>
+   
+    <Age>28</Age>
+    <salary>1.1k</salary>
+  </book>
+
+    <book category="math">
+    <title>Statistics</title>
+    <teacher>RajenPoudel</teacher>
+    <Age>32</Age>
+    <salary>1.0k</salary>
+  </book>
+
+    <book category="SAD">
+    <title>SAD</title>
+    <teacher>Manish Rathi</teacher>
+  
+    <Age>30</Age>
+    <salary>3.7k</salary>
+  </book>
+
+   
+ 
+
+</bookstore>

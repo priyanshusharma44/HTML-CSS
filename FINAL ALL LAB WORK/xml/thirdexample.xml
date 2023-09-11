@@ -1,0 +1,21 @@
+<college>
+    <student>
+        <studentname>Priyanshu</studentname>
+        <major>English</major>
+        <coursesenroll>BCA</coursesenroll>
+        <academicstanding>AGrade</academicstanding>
+        <personalinfo>
+            <phonenumber>+9774456</phonenumber>
+            <address>
+                <city>Itahari</city>
+                <state>Province-1</state>
+                <pin>4343</pin>
+            </address>
+            <email>serjo@gmail.com</email>
+        
+        </personalinfo>
+
+    </student>
+
+
+</college>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Registration Form</title>
+</head>
+<body>
+    <h1>Student Registration Form</h1>
+    <form action="" method="post">
+        <p>Name: <input type="text" name="Name"></p>
+        <p>Roll Number: <input type="number" name="Roll"></p>
+        <p>Are you eligible? <input type="checkbox" name="myeligibility"></p>
+        <p>Gender:
+        <input type="radio" name="Gender" value="Female"> Female
+        <input type="radio" name="Gender" value="Male"> Male</p>
+        <p>Tell us about yourself: <textarea name="mytext" rows="4" cols="30"></textarea></p>
+        
+        <p>Faculty:
+        <select name="Faculty">
+            <option value="BCA">BCA</option>
+            <option value="BSW">BSW</option>
+            <option value="BBS">BBS</option>
+            <option value="LAW">LAW</option>
+        </select>
+	</p>
+        <p> Image: <input type="image" src="jess-bailey-q10VITrVYUM-unsplash.jpg" alt="Small Icon"width="32" height="32"></p>
+	 <p>Select A File: <input type="file" name="myFile" accept="image/*"></p>
+        <p><label for="username">Username:</label> <input type="text" id="username" name="Username"></p>
+        <p><label for="password">Password:</label> <input type="password" id="password" name="Password"></p>
+        <p>Date: <input type="date" name="Date"></p>
+        <p><input type="submit" value="Submit"></p>
+
+    
+    </form>
+</body>
+</html>

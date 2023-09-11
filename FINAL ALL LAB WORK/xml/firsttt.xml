@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bank [
+  <!ELEMENT bank (customer, account)>
+  <!ELEMENT customer (cid, name, address)>
+  <!ELEMENT account (aid,  cid, AType, balance)>
+  <!ELEMENT cid (#PCDATA)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT address (#PCDATA)>
+  <!ELEMENT aid (#PCDATA)>
+  <!ELEMENT AType (#PCDATA)>
+  <!ELEMENT balance (#PCDATA)>
+]>
+<bank>
+  <customer>
+      <cid>1011</cid>
+      <name>hari</name>
+      <address>itahari</address>
+    </customer>
+  <account>
+      <aid>10111</aid>
+      <cid>1011</cid>
+      <AType>Saving</AType>
+      <balance>10000</balance>
+    </account>
+</bank>

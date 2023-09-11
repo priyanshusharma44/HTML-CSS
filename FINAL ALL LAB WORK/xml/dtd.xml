@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE student >[
+<!ELEMENT student (name,address,phone,website)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT website (#PCDATA)>
+<studentroot>
+        <student >
+            <name>RABIN</name>
+            <address type="permanent">ITAHARI</address>
+            <address type="temporary">BIRTAMOD</address>
+            <phone maxOccurs="10">56546566645654645654</phone>
+            <website>www.google.com/</website>
+        </student>
+</studentroot>

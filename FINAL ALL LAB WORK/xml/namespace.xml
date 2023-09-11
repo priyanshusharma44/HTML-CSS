@@ -1,0 +1,17 @@
+<body>
+<h:table xmlns:h="http://www.facebook.com">
+  <h:tr>
+    <h:td>Apples</h:td>
+    <h:td>Bananas</h:td>
+    <h:td>Orange</h:td>
+    <h:td>Graps</h:td>
+  </h:tr>
+</h:table>
+
+<f:table xmlns:f="https://www.instagram.com">
+  <f:name>African Coffee Table</f:name>
+  <f:width>80</f:width>
+  <f:length>120</f:length>
+  <f:height>123cm</f:height>
+</f:table>
+</body>
