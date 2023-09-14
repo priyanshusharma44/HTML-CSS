@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<college xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://www.serjoramos.com work11.xsd">
+  <student>
+    <name>RAM</name>
+    <address>ITAHARI</address>
+    <phone>456456</phone>
+  </student>
+  <subject>
+    <BCA>BCA</BCA>
+    <BIT>BIT</BIT>
+    <MIT>MIT</MIT>
+  </subject>
+</college>
