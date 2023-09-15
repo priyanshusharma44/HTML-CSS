@@ -1,7 +1,7 @@
 <TU xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="teach11.xsd">
     <employee>
-        <post>Engineer</post> <!-- A valid value with at least 5 characters -->
+        <post>Engineer</post> 
         <salary>5000</salary>
         <gender>male</gender>
         <username>priyanshu</username>
