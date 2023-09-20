@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test1.xsl"?>
+<employees>
+    <employee>
+        <name>Priyanshu</name>
+        <department>BCA</department>
+        <jobtitle>ANALYST</jobtitle>
+        <salary>45000</salary>
+        <email>ram@gmailo.com</email>
+    </employee>
+</employees>

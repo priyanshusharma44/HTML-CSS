@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test.xsl"?>
+<person>
+    <user>
+        <fullname>fdgfdg</fullname>
+        <post>fdgfd</post>
+        <salary>gfdgfd</salary>
+        <email>fdgfd</email>
+    </user>
+        <user>
+        <fullname>dfgf</fullname>
+        <post>fdgfdgfdg</post>
+        <salary>sdfsdf</salary>
+        <email>gfgfdgg</email>
+    </user>
+
+        <user>
+        <fullname>fdgfdg</fullname>
+        <post>dfgfdg</post>
+        <salary>dfgfdg</salary>
+        <email>dfg</email>
+    </user>
+
+        <user>
+        <fullname>dfg</fullname>
+        <post>fdgfdg</post>
+        <salary>gfdgfdg</salary>
+        <email>dfgfd</email>
+    </user>
+
+        <user>
+        <fullname>fdsfdsf</fullname>
+        <post>fdsdfsd</post>
+        <salary>fsdfsdf</salary>
+        <email>dfsdfsd</email>
+    </user>
+
+</person>

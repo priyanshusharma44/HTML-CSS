@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test2.xsl"?>
+<products>
+    <product>
+        <productname>BED</productname>
+        <category>Categoryfirst</category>
+        <price>20.20</price>
+        <quantity>18</quantity>
+    </product>
+    <product>
+        <productname>CAR</productname>
+        <category>Categorytwo</category>
+        <price>15.75</price>
+        <quantity>18</quantity>
+    </product>
+    <product>
+        <productname>BIKE</productname>
+        <category>Categorytwo</category>
+        <price>22.00</price>
+        <quantity>10</quantity>
+    </product>
+</products>
