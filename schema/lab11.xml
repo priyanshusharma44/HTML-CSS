@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bank>
+  <customer>
+    <customerID>C1</customerID>
+    <name>Alice Johnson</name>
+    <address>123 Main St, Cityville</address>
+  </customer>
+  <customer>
+    <customerID>C2</customerID>
+    <name>Bob Smith</name>
+    <address>456 Elm St, Townsville</address>
+  </customer>
+  <account>
+    <accountID>A1</accountID>
+    <branchID>B1</branchID>
+    <customerID>C1</customerID>
+    <accountType>Savings</accountType>
+    <balance>5000.00</balance>
+  </account>
+  <employee>
+    <employeeID>E1</employeeID>
+    <name>John Doe</name>
+    <designation>Manager</designation>
+    <DOJ>2023-01-15</DOJ>
+    <salary>60000.00</salary>
+    <address>789 Oak St, Metropolis</address>
+  </employee>
+</bank>
