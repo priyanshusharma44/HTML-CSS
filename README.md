@@ -45,4 +45,3 @@ This project is licensed under the MIT License, allowing you to use, modify, and
 
 Feel free to reach out to us with any questions or feedback. Happy coding!
 
-Note: Replace your-username/your-repo with your actual GitHub username and repository name
