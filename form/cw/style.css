@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+    /* background: url("istockphoto-1182956407-170667a.jpg"); */
+}
+div,p{
+    display: inline;
+    font-size: 1.2rem;
+}
+
+.formDiv{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    height: 20rem;
+    /* border: 2px solid black; */
+    background: white;
+    backdrop-filter: blur(5px);
+    border-radius: 1rem;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    flex-direction: column;
+}
+input{
+    margin: 0.4rem;
+    text-align: center;
+    /* color: black; */
+    font-weight: bolder;
+}
+input,textarea{
+    box-sizing: border-box;
+    color: black;
+    border-radius: 0.4rem;
+    margin-top: 1.4rem;
+    height: 2rem;
+    border: 2px solid black;
+    background: transparent;
+}
+input[type="text"]{
+    width: 13rem;
+}
+input[type="password"],input[type="email"],input[type="number"]{
+    width: 18rem;
+    color: black;
+}
+.fname,.lname{
+    display: inline;
+}
+.lname{
+    padding-left: 1.8rem;
+}
+.emailPass,.cardAmt{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+}
+.pass{
+    /* margin-left: 2rem; */
+    /* width: 15rem; */
+}
+.send{
+    font-weight: bolder;
+    height: 2.4rem;
+    width: 6rem;
+    border-radius: 0.6rem;
+    cursor: pointer;
+}
+#btn:hover{
+    background: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    color: white;
+
+}
