@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding = "UTF-8"  ?>
+<!DOCTYPE libary SYSTEM "external.dtd">
+<libary>
+    <a:book xmlns:a="www.youtube.com">
+        <a:bookname>science</a:bookname>
+        <a:author>jhon mislin</a:author>
+    </a:book>
+    <b:book xmlns:b="www.google.com">
+        <b:bookname>math</b:bookname>
+        <b:author>hima sing</b:author>
+    </b:book>
+</libary>

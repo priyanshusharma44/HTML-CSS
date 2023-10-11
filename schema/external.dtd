@@ -1,0 +1,7 @@
+<!ELEMENT libary (a:book, b:book)>
+<!ELEMENT a:book (a:bookname, a:author)>
+<!ELEMENT b:book (b:bookname, b:author)>
+<!ELEMENT a:bookname (#PCDATA)>
+<!ELEMENT a:author (#PCDATA)>
+<!ELEMENT b:bookname (#PCDATA)>
+<!ELEMENT b:author (#PCDATA)>

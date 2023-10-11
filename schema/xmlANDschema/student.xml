@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<student
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="schema.xsd">
+    <id>123</id>
+    <name>
+        <fname>Ram</fname>
+        <lname>Gurung</lname>
+    </name>
+    <roll>13</roll>
+    <address>
+        <city>Itahari</city>
+        <state>province 1</state>
+        <pin>2335</pin>
+    </address>
+</student>
