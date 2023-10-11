@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bank SYSTEM "bank.dtd">
+<bank xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bank.xsd">
+    <customer>
+        <id>123</id>
+        <name>hari sharma</name>
+        <address>itahari</address>
+    </customer>
+    <account>
+        <accountId>2233</accountId>
+        <branchId>9999</branchId>
+        <customerId>123</customerId>
+        <accountType>saving</accountType>
+        <balance>2500000</balance>
+    </account>
+</bank>

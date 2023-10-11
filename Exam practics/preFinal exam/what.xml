@@ -1,0 +1,14 @@
+<?xml?>
+<college>
+    <studentDetails>
+        <sid>123</sid>
+        <sname>sagun basnet</sname>
+        <roll>12</roll>
+        <address>Itahari-19</address>
+    </studentDetails>
+    <studentFaculty>
+        <faculty>BCA</faculty>
+        <year>2</year>
+        <semester>3</semester>
+    </studentFaculty>
+</college>

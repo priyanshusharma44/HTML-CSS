@@ -1,0 +1,10 @@
+<!ELEMENT college(studentDetails,studentFaculty)>
+<!ELEMENT studentDetails(sid,sname,roll,address)>
+<!ELEMENT sid(#PCDATA)>
+<!ELEMENT sname(#PCDATA)>
+<!ELEMENT roll(#PCDATA)>
+<!ELEMENT address(#PCDATA)>
+<!ELEMENT studentFaculty(faculty,year,semester)>
+<!ELEMENT faculty(#PCDATA)>
+<!ELEMENT year(#PCDATA)>
+<!ELEMENT semester(#PCDATA)>

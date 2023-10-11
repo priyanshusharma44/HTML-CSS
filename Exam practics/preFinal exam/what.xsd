@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="college">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="studentDetail">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="sid" type="number">
+                        <xs:element name="sname" type="string">
+                        <xs:element name="roll" type="number">
+                        <xs:element name="address" type="string">
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="studentFaculty">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="faculty" type="string">
+                        <xs:element name="year" type="number">
+                        <xs:element name="semester" type="number">
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>

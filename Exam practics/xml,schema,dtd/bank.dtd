@@ -1,0 +1,20 @@
+<!DOCTYPE bank[
+    <!ELEMENT bank (customers, account, employee)>
+    <!ELEMENT customers(customerId,name,address)>
+    <!ELEMENT account (accountId, BranchID, CustomerID, accountType, balance)>
+    <!ELEMENT employee (EMPID, empName, designation, DOJ, salary and empAddress)>
+    <!ELEMENT customerId (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+    <!ELEMENT accountId (#PCDATA)>
+    <!ELEMENT BranchID (#PCDATA)>
+    <!ELEMENT CustomerID (#PCDATA)>
+    <!ELEMENT accountType (#PCDATA)>
+    <!ELEMENT balance (#PCDATA)>
+    <!ELEMENT EMPID (#PCDATA)>
+    <!ELEMENT empName (#PCDATA)>
+    <!ELEMENT designation (#PCDATA)>
+    <!ELEMENT DOJ (#PCDATA)>
+    <!ELEMENT salary (#PCDATA)>
+    <!ELEMENT empAddress (#PCDATA)>
+]>
