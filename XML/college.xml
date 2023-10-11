@@ -1,0 +1,34 @@
+<college name='Itahari namuna college'>
+    <faculty>
+        <bachelor>
+            <BCA>4 years. Semester wise courses.</BCA>
+            <BHM>4 years. Semester wise courses.</BHM>
+            <BSW>4 years. Yearly courses.</BSW>
+            <BBS>4 years. Yearly courses.</BBS>
+        </bachelor>
+        <highSchool>
+            <management>
+                <computerScience>Computer science</computerScience>
+                <businessStudies>Business Studies</businessStudies>
+            </management>
+            <law>Law</law>
+            <science>Science</science>
+        </highSchool>
+    </faculty>
+    <time>
+        <forBachelor>
+            <forBCA time='6:30 am'>Morning shift</forBCA>
+            <forBHM time='11:15 am'>Day shift</forBHM>
+            <forBSW time='6:30 am'>Morning shift</forBSW>
+            <forBBS time='6:30 am'>Morning shift</forBBS>
+        </forBachelor>
+        <forHighSchool for='+2'>
+            <forManagement time='6:30 am'>Morning shift</forManagement>
+            <forScience time='11:15 am'>Day shift</forScience>
+            <forLaw time='6:30 am'>Morning shift</forLaw>
+        </forHighSchool>
+    </time>
+    <busFacility>
+        Available for both shift. i.e. Morning and Day
+    </busFacility>
+</college>

@@ -1,0 +1,13 @@
+<root>
+    <h:table xmlns:h="https://www.youtube.com">
+        <h:tr>
+            <h:td>Apples</h:td>
+            <h:td>Bananas</h:td>
+        </h:tr>
+    </h:table>
+    <f:table xmlns:f="https//www.google.com">
+        <f:name>Coffee table</f:name>
+        <f:width>100</f:width>
+        <f:height>160</f:height>
+    </f:table>
+</root>
